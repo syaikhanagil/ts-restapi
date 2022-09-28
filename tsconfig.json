@@ -30,6 +30,9 @@
             "@/middlewares/*": [
                 "middlewares/*"
             ],
+            "@/resources/*": [
+                "resources/*"
+            ],
             "@/utils/*": [
                 "utils/*"
             ]
